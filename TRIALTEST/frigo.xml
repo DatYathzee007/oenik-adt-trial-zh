@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<refrigerator brand="lehel" capacity="13">
+  <products>
+    <product amount="1">Bor</product>
+    <product amount="2">Spagetti</product>
+    <product amount="3">Sör</product>
+    <product amount="1">Borsodi</product>
+    <product amount="3">Hagyma</product>
+    <product amount="3">Olaj</product>
+    <product amount="3">Krumpli</product>
+    <product amount="5">Só</product>
+    <product amount="5">Bors</product>
+    <product amount="2">Zeller</product>
+    <product amount="13">Darálthús</product>
+    <product amount="13">Paradicsom szósz</product>
+  </products>
+</refrigerator>
